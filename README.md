@@ -1,1 +1,4 @@
+Created a user interface for the selection and segmentation of medical images stored in a folder. The primary goal of this project is to provide a user-friendly tool to perform image segmentation using the k-means algorithm. 
+Upon browsing and selecting an image from the folder, the image is subjected to a segmentation process. K-means clustering is a popular machine learning algorithm used to divide the selected medical image into distinct clusters, leading to identifying different objects within the image.
+This interface facilitates the analysis and extraction of critical information from medical images for diagnostic or research purposes. This helps contribute to the efficient processing and analysis of medical images, potentially assisting healthcare professionals and researchers in their work. 
 "# Image_segmentation" 
